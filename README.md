@@ -1,2 +1,2 @@
-# ScoalaAltfel
-Scoala altfel - 18-22 Aprilie 2016
+#ScoalaAltfel
+-Scoala altfel - 18-22 Aprilie 2016
